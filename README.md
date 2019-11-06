@@ -18,3 +18,13 @@ get a crowd of people to cooperate publishing theire shared mindset about someth
 
 abstract:
 Open letters can be a good thing. Democratic descicionmaking also. so lets merge this. Like shared efforts do. But it shal be more easy.
+
+
+
+files:
+
+abstimmungswatcher:	wird bei jedem neuen block ausgefuehrt. wenn abstimmung resultiert in publish=true
+			sets flag for transmissioncount down
+
+transmissioncountdown: pad user werden informiert, dass in 30 seconds der aktuelle inhalt auf github veroeffentlich wird. (was er dann auch wird, hoffe ich)
+
